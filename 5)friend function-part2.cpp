@@ -77,5 +77,6 @@ cin.tie(NULL);
     c1.input();c2.input();
     c3=c1+c2;             //c3=c1.operator+(c2) or c1.plus(c2)"like any function"
     c3.output();
+    cout<<"xxx";
 }
 
