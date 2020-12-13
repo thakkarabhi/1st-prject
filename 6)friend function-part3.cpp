@@ -74,5 +74,6 @@ cin.tie(NULL);
     Complex c1;
     cin>>c1; //c.operator>>(c1)
     cout<<c1;//h
+    cotu<<"abhi";
 }
 
