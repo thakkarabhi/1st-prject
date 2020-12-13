@@ -85,7 +85,6 @@ cin.tie(NULL);
     obj1.input();
     obj2.input();
     fun(obj1,obj2);
-    cout<<abhi<<endl;
     
 }
 
